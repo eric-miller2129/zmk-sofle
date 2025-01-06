@@ -75,7 +75,7 @@ layers:
   - F6
   - F7
   - F8
-  - F9
+  - {t: '-', s: _}
   - F10
   - _
   - {t: '$$mdi:transfer$$', type: trans}
