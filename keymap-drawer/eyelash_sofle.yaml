@@ -111,7 +111,7 @@ layers:
   - RGB EFR
   - RGB SPI
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - PLUS
+  - +
   - RGB BRD
   - Ins
   - F11
