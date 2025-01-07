@@ -42,7 +42,7 @@
             #binding-cells = <0>;
             bindings = <&bt BT_SEL 0>, <&to MACBOOK>;
         };
-    }
+    };
     behaviors {
         mmv {
             acceleration-exponent = <1>;      // 1
