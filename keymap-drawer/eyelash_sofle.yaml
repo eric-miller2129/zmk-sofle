@@ -96,7 +96,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - END
+  - '&mkp END'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - HOME
   - $$mdi:arrow-left-bold$$
